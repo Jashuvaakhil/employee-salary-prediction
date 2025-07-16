@@ -44,7 +44,7 @@ This project is part of IBM's 6-week AI internship. It uses machine learning to 
 
 ## 📝 Author
 
-**Jashuva Akhil**  
+** K Jashuva Akhil**  
 IBM AI Internship Participant – 2025
 
 ## 📌 Disclaimer
